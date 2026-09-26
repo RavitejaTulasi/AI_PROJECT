@@ -1,0 +1,4 @@
+.mis\
+**/.env
+_pycache_/
+*.pyc
